@@ -1,0 +1,17 @@
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\LSS_Client.exe.config
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\obj\Debug\LSS_Client.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\obj\Debug\LSS_Client.Form1.resources
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\obj\Debug\LSS_Client.Properties.Resources.resources
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\obj\Debug\LSS_Client.csproj.GenerateResource.Cache
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\LSS_Client.exe
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\LSS_Client.pdb
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\obj\Debug\LSS_Client.exe
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\obj\Debug\LSS_Client.pdb
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.Api2.dll
+C:\Users\Dario\Documents\GitHub\Lan-Screen-Stream\LSS_Client\LSS_Client\bin\Debug\Microsoft.Expression.Encoder.Api2.xml
