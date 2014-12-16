@@ -21,12 +21,12 @@ namespace WPF_LSS_Server {
         public MainWindow() {
             InitializeComponent();
 
-                //theMainWindow.getServerIPAddress();
-                //IP = theMainWindow.machineIP;
-        
-                MediaPlayer.Source = new Uri(@"http://localhost:8080/");
-                // URI for broadcast plays automatically
-                //MediaPlayer.Play();
+            //theMainWindow.getServerIPAddress();
+            //IP = theMainWindow.machineIP;
+
+            MediaPlayer.Source = new Uri(@"http://localhost:8080/");
+            // URI for broadcast plays automatically
+            //MediaPlayer.Play();
         }
-       
+    }
 }
